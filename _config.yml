@@ -273,7 +273,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Guyumus]
-  first_name: [Daniel,]
+  first_name: [Daniel, E.]
 
   style: apa
   locale: en
