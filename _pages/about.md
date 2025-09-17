@@ -28,4 +28,3 @@ latest_posts:
 ---
 
 I am a Civil Engineer and current Ph.D. candidate focused on advancing groundwater representation in land surface models to improve weather prediction. My research interests are hydrological and hydraulic modeling, climate change, remote sensing, spatial data analysis, and meteorology. I have over 6 years of experience developing and implementing hydrological models to assess and aid water management processes.
-
