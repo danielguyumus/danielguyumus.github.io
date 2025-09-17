@@ -13,16 +13,15 @@ I have had the opportunity to serve as a guest lecturer in the courses of Hydrol
 
 ## A1. Designing and Planning for Learning Activities
 
-In designing and planning learning activities, I prioritize values of transparency and respect. As a guest lecturer for Hydrosystems Modeling and River Hydraulics, the assignments I developed were grounded in real-world applications and closely aligned with the practical tools introduced during the lectures. I created clear instructions and accompanying lecture slides to ensure that students understand expectations and processes. To accommodate diverse student needs, I provided course material in advance, adapted explanations in response to confusion, and offered alternative examples as needed [V3, K1]. As a TA in Fluid Mechanics, my approach in lab sessions included adapting guidelines in communication with the Faculty, sharing explicit expectations for student reports, and further supporting transparency and clarity [V5, K2]. 
+In designing and planning learning activities, I prioritize values of transparency and respect. As a guest lecturer for Hydrosystems Modeling and River Hydraulics, the assignments I developed were grounded in real-world applications and closely aligned with the practical tools introduced during the lectures. I created clear instructions and accompanying lecture slides to ensure that students understand expectations and processes. To accommodate diverse student needs, I provided course material in advance, adapted explanations in response to confusion, and offered alternative examples as needed [V3, K1]. As a TA in Fluid Mechanics, my approach in lab sessions included adapting guidelines in communication with the Faculty, sharing explicit expectations for student reports, and further supporting transparency and clarity [V5, K2].
 
-As a TA, I use positive reinforcement and active listening when responding to students’ questions, as well as encouraging open communication [V1]. The effectiveness of these strategies was reflected in the quality of student work, which I assessed in a timely manner with constructive feedback during the grading process. These practices help me create an equitable and engaging environment [K1]. 
-
+As a TA, I use positive reinforcement and active listening when responding to students’ questions, as well as encouraging open communication [V1]. The effectiveness of these strategies was reflected in the quality of student work, which I assessed in a timely manner with constructive feedback during the grading process. These practices help me create an equitable and engaging environment [K1].
 
 ## A2. Teaching and Supporting Student Learning
 
-I adopt an active and inclusive learning environment across both Lectures and labs. During lab sessions, I introduce the fundamental concepts behind each experiment, clearly outline the procedures, and prompt students to predict possible outcomes. I invite students to hypothesize explanations for observed phenomena, providing a supportive environment in which they can develop a deeper understanding. By allowing students to collaborate on experimental tasks, I encourage peer-to-peer learning and hands-on engagement [V2, K2]. In lectures, I incorporate animated material to capture students’ attention and facilitate an intuitive understanding of complex ideas [K4]. For more abstract topics, I encourage participation with open-ended questions and active listening, repeating back the question to the students. To promote equitable participation, I clearly communicate expectations for assignments, ensuring students understand the criteria for success [V1, K1]. 
+I adopt an active and inclusive learning environment across both Lectures and labs. During lab sessions, I introduce the fundamental concepts behind each experiment, clearly outline the procedures, and prompt students to predict possible outcomes. I invite students to hypothesize explanations for observed phenomena, providing a supportive environment in which they can develop a deeper understanding. By allowing students to collaborate on experimental tasks, I encourage peer-to-peer learning and hands-on engagement [V2, K2]. In lectures, I incorporate animated material to capture students’ attention and facilitate an intuitive understanding of complex ideas [K4]. For more abstract topics, I encourage participation with open-ended questions and active listening, repeating back the question to the students. To promote equitable participation, I clearly communicate expectations for assignments, ensuring students understand the criteria for success [V1, K1].
 
-I have observed that students engage more easily when allowed to apply concepts, share ideas, and reflect on their reasoning. 
+I have observed that students engage more easily when allowed to apply concepts, share ideas, and reflect on their reasoning.
 
 ## A3. Assessing and Giving Feedback for Learning
 
@@ -32,6 +31,4 @@ I see assessments as a key element in building a deeper understanding. In a lect
 
 ## A5. Engaging in Professional DEvelopment as a Teacher
 
-
 # Integrate and Reflect
-
