@@ -200,6 +200,7 @@ exclude:
   - _pages/repositories.md
   - _pages/profiles.md
   - _pages/dropdown.md
+  - _bibliography/*.bib
 keep_files:
   - CNAME
   - .nojekyll
