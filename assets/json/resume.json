@@ -74,28 +74,15 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "R",
-        "Python",
-        "Matlab"
-      ]
+      "keywords": ["R", "Python", "Matlab"]
     },
     {
       "name": "GIS & Remote Sensing",
-      "keywords": [
-        "ArcGIS",
-        "QGIS"
-      ]
+      "keywords": ["ArcGIS", "QGIS"]
     },
     {
       "name": "Hydrological & Hydraulic Modelling",
-      "keywords": [
-        "HEC-HMS",
-        "HEC-RAS",
-        "RiverFLOW2D",
-        "Civil3D",
-        "Revit"
-      ]
+      "keywords": ["HEC-HMS", "HEC-RAS", "RiverFLOW2D", "Civil3D", "Revit"]
     }
   ],
   "publications": [
