@@ -201,7 +201,6 @@ exclude:
   - _pages/profiles.md
   - _pages/dropdown.md
   - _bibliography/*.bib
-  - _pages/cv.md
   - _pages/publications.md
 keep_files:
   - CNAME
@@ -642,14 +641,11 @@ jekyll_get_json:
 
 jsonresume:
   - basics
+  - research
   - work
   - education
   - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
   - skills
-  - languages
-  - interests
+  - awards
+  - extracurricular
   - references

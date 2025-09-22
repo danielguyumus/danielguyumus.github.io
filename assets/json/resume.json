@@ -1,200 +1,150 @@
 {
   "basics": {
-    "name": "Daniel Guyumus",
-    "label": "PhD Candidate",
-    "image": "",
-    "email": "daniel.guyumus.preciado@duke.edu",
-    "phone": "_",
-    "url": "https://danielguyumus.github.io",
-    "summary": "_",
+    "name": "Daniel E. Guyumus P.",
+    "label": "Civil Engineer, M.Sc",
+    "email": "danielguyumus@gmail.com",
+    "url": "https://linkedin.com/in/danielguyumus",
+    "summary": "Civil Engineer with MSc in Civil Engineering focused on sustainable management of water resources and hydroinformatics. Over 6 years of experience in hydraulic and hydrological modelling, GIS data management, and remote sensing data processing. Research interests include hydrological and hydraulic modelling, climate change, remote sensing data processing, and meteorology.",
     "location": {
-      "address": "St",
-      "postalCode": "_",
-      "city": "Durham",
-      "countryCode": "US",
-      "region": "North Carolina"
+      "address": "___",
+      "postalCode": "",
+      "city": "_____",
+      "countryCode": "____",
+      "region": "_____"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Daniel Guyumus",
-        "url": "https://"
+        "username": "danielguyumus",
+        "url": "https://linkedin.com/in/danielguyumus"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "DODF (Planning and Development Department), Universidad Nacional de Colombia",
+      "position": "Design Engineer on Hydrosanitary Systems",
+      "startDate": "2019-07",
+      "endDate": "Present",
+      "summary": "Design of hydrosanitary networks and detailed drawings of assigned projects. Audit designs and studies contracted by the DODF. Prepare technical concepts in pre-contractual processes."
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "INGETEC S.A.S.",
+      "position": "Design Engineer on Hydrological Analysis",
+      "startDate": "2017-03",
+      "endDate": "2019-06",
+      "summary": "Conducted hydrological analyses for projects across Colombia, Panama, Chile, and Bolivia. Work included erodibility analysis, hazard and risk assessments, environmental impact studies, and hydrological modeling for hydroelectric and water supply projects."
+    },
+    {
+      "name": "AQUAING S.A.S. / Gabriel Lozano Sandoval",
+      "position": "Assistant Design Engineer on Hydrological Analysis",
+      "startDate": "2013-06",
+      "endDate": "2014-12",
+      "summary": "Developed studies and designs for supply and sanitation water systems in multiple municipalities. Contributed to hydrology and climatology components in river basin planning and performed risk level assessments."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Universidad de Los Andes, Bogot\u00e1, Colombia",
+      "studyType": "Master of Science",
+      "area": "Civil Engineering",
+      "startDate": "2015-01",
+      "endDate": "2017-03",
+      "summary": "Teaching Assistant graduate courses (Hydrosystems modeling, Hydrosystems analysis, River Hydraulics). Research assistant with thesis on hydrological modelling in Paramo areas using meteorological remote sensing data."
+    },
+    {
+      "institution": "Universidad del Quindio, Armenia, Colombia",
+      "studyType": "Bachelor of Science",
+      "area": "Civil Engineering",
+      "startDate": "2008-01",
+      "endDate": "2013-12",
+      "summary": "Academic Director ANEIC-UQ student association. Awarded scholarship for best grades. Thesis on hydrological modelling for water balance in La Vieja River Basin using WEAP."
     }
   ],
-  "awards": [
+  "research": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "organization": "CIIA Environmental Engineering Research Center, Universidad de Los Andes",
+      "summary": "Research assistant on selecting sustainable urban drainage systems (SUDS) for Bogot\u00e1 and on flood hazard analysis for BIMA Outlet Shopping Center using bidimensional hydraulic flood modelling."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "organization": "CIDERA - Universidad del Quind\u00edo",
+      "summary": "Analyzed surface water balance for La Vieja River Basin using decision support system tool WEAP."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R",
+        "Python",
+        "Matlab"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "name": "GIS & Remote Sensing",
+      "keywords": [
+        "ArcGIS",
+        "QGIS"
+      ]
+    },
+    {
+      "name": "Hydrological & Hydraulic Modelling",
+      "keywords": [
+        "HEC-HMS",
+        "HEC-RAS",
+        "RiverFLOW2D",
+        "Civil3D",
+        "Revit"
+      ]
     }
   ],
-  "interests": [
+  "publications": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "118th Conference on Fluvial Hydraulics \u2013 RiverFlow 2016",
+      "releaseDate": "2016-07",
+      "summary": "Poster on two-dimensional hydraulic flood modelling in domains with multiple tributary areas for risk analysis. St Louis, Missouri, USA."
+    },
+    {
+      "name": "XXII Seminario Nacional de Hidr\u00e1ulica e Hidrolog\u00eda",
+      "releaseDate": "2016-08",
+      "summary": "Presentation on two-dimensional hydraulic flood modelling in domains with multiple tributary areas for risk analysis. Bogot\u00e1, Colombia."
+    },
+    {
+      "name": "XXVII Congreso Latinoamericano de Hidr\u00e1ulica",
+      "releaseDate": "2016-09",
+      "summary": "Paper on two-dimensional hydraulic flood modelling in domains with multiple tributary areas for risk analysis. Lima, Peru."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Graduate Research Assistant Grant",
+      "date": "2015-2017",
+      "awarder": "Universidad de Los Andes"
+    },
+    {
+      "title": "Scholarship for Best Academic Grade Term Average",
+      "date": "2009-2011",
+      "awarder": "Universidad del Quind\u00edo"
+    }
+  ],
+  "extracurricular": [
+    {
+      "name": "Academic Director, ANEIC-UQ",
+      "startDate": "2010-03",
+      "endDate": "2011-03",
+      "summary": "National Association of Civil Engineering Students at Universidad del Quind\u00edo, Armenia, Colombia."
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "___",
+      "reference": "M.Sc Civil Engineering, Universidad de Los Andes",
+      "email": "__"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "",
+      "reference": "Ph.D Civil Engineering, University of Newcastle",
+      "email": "___"
     }
   ]
 }
