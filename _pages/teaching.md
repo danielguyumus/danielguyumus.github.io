@@ -29,6 +29,10 @@ I see assessments as a key element in building a deeper understanding. In a lect
 
 ## A4. Supporting and Guiding Learning
 
+As a TA, I enjoyed supporting students both inside and outside the classroom. I made myself available through in-person and virtual office hours to ensure I was accessible whenever needed. I assisted students with their academic projects and helped them understand degree requirements. I also enjoyed sharing insights about my field and informing students about opportunities and career paths available. Understanding that every student’s journey is unique, I focus on building trust by consistently using students’ names and showing genuine interest in their backgrounds, hobbies, and goals. I acknowledge their commitment and growth.
+
+As part of the Society of Hispanic Professional Engineers, I help connect students with their peers and organize informal meetups and cohort lunches, allowing students to build a sense of community. By openly sharing my own stories of struggle through my career path, I foster a space where reaching out for help is normalized, and mental health is prioritized.
+
 ## A5. Engaging in Professional DEvelopment as a Teacher
 
 # Integrate and Reflect
