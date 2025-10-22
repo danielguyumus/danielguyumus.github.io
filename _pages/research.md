@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Research Statement.
+title: Research Statement.
+description:
 nav: true
 nav_order: 6
 ---
-
-## Research Statement
 
 My ongoing research focuses on **advancing the representation of groundwater processes in land surface models (LSMs)** through the development of novel numerical frameworks that balance physical realism with computational efficiency. Traditional fully distributed models provide a detailed spatial representation of subsurface hydrology, but their computational demands limit their applicability at regional to global scales, especially when coupled with high-resolution atmospheric and land datasets. To address this challenge, my work explores the feasibility of **implementing multiscale processes** within novel **tiling schemes** as an alternative modeling paradigm.
 
