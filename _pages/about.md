@@ -13,7 +13,7 @@ profile:
     <p>Duke University</p>
     <p>Durham, NC 27705</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -27,4 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Civil Engineer and current Ph.D. candidate focused on advancing groundwater representation in land surface models to improve weather prediction. My research interests are hydrological and hydraulic modeling, climate change, remote sensing, spatial data analysis, and meteorology. I have over 6 years of experience developing and implementing hydrological models to assess and aid water management processes.
+Hello, welcome to my personal website.
+
+I am a hydrologist and a current Ph.D. candidate at Duke University. My research focuses on studying and improving our understanding of surface water to groundwater interaction, the impact of spatial heterogeneity in the multiscale subsurface processes and the human impact on subsurface dynamics; particularly through advancing the representation of hydrological systems in Land Surface Models, leveraging global environmental data, numerical and data-driven models combining physics and maching learning, to achieve high accuracy and low computational cost representation of complex hydrological processes.
+
+My interests span from hydrological and hydraulic modeling, climate change, remote sensing, spatial data analysis, and meteorology.
+
+![Parque Nacional Natural "El Cocuy" Colombia](/assets/img/IMG-20180808-WA0061.jpeg)
