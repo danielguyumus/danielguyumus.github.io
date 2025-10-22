@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research Statement.
+title: research
 description:
 nav: true
 nav_order: 6
