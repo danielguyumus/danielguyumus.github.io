@@ -36,6 +36,6 @@ I am a **hydrologist** and a current Ph.D. candidate at Duke University. My rese
 
 My interests span from hydrological and hydraulic modeling, climate change, remote sensing, spatial data analysis, and meteorology.
 
-<img src="/assets/img/IMG-20180808-WA0061.jpeg" alt="Parque Nacional Natural 'El Cocuy' Colombia" width="500"/>
+<img src="/assets/img/IMG-20180808-WA0061.jpeg" alt="Parque Nacional Natural 'El Cocuy' Colombia" width="600"/>
 
 _Parque Nacional Natural 'El Cocuy' Colombia_

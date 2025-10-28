@@ -37,8 +37,8 @@ layout: default
         {% endif %}
 
         {% if page.profile.teaching_link %}
-          <div class="contact-link">
-            <a href="{{ page.profile.teaching_link.url | relative_url }}" class="btn btn-sm btn-info mt-2">
+          <div class="teaching-link-container mt-2">
+            <a href="{{ page.profile.teaching_link.url | relative_url }}">
               {{ page.profile.teaching_link.title }}
             </a>
           </div>
