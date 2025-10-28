@@ -35,6 +35,14 @@ layout: default
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
+
+        {% if page.profile.teaching_link %}
+          <div class="contact-link">
+            <a href="{{ page.profile.teaching_link.url | relative_url }}" class="btn btn-sm btn-info mt-2">
+              {{ page.profile.teaching_link.title }}
+            </a>
+          </div>
+        {% endif %}
       </div>
     {% endif %}
 
