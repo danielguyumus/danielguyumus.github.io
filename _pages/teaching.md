@@ -20,7 +20,7 @@ As a TA, I **created assignments and lecture materials** for the courses Hydrosy
 My approach in lab sessions involved **adjusting communication guidelines** with the Faculty and clearly sharing expectations for student reports through [Sakai](/assets/pdf/lab_guidelines.pdf); this helped promote transparency and clarity [V5, K4]. During lab sessions, I encouraged students to assign roles for each experiment to ensure active participation from everyone [K2, V2], making sure every student remained engaged.
 During office hours and lectures, I use positive reinforcement and active listening when responding to students’ questions, and I encourage open communication to foster a respectful environment. The effectiveness of these strategies was reflected in the students’ engagement during our sessions and in the quality of their work.
 
-Read my homework assigments [here](/assets/pdf/talleres.pdf) and lecture materials [here] (/assets/pdf/guia_clase_rios.pdf)
+_Read my homework assigments [here](/assets/pdf/talleres.pdf) and lecture materials [here](/assets/pdf/guia_clase_rios.pdf)_
 
 #### Teaching and Supporting Student Learning
 
@@ -30,7 +30,7 @@ To support student learning, **I strive to create an active and inclusive enviro
 
 I believe assessments are vital for understanding and evaluating teaching effectiveness. During my guest lectures, I used **concept checks** to determine students' initial understanding and to address any misconceptions [V3]. To ensure fairness and clarity, I make sure assignment prompts are straightforward and **provide constructive feedback on lab reports and homework**. I also meet with students individually to discuss their progress, helping to maintain integrity and clarify expectations [V2, K2]. Digital platforms like Canvas facilitate quick, written feedback, which encourages students to reflect and improve [K4]. This continuous communication fosters a warm, **supportive environment where feedback drives growth and confidence**.
 
-Examples of my feedback for lab reports and homeworks can be found [here](/assets/pdf/lab_feedback.pdf) and [here](/assets/pdf/homework_feedback.pdf)
+_Examples of my feedback for lab reports and homeworks can be found [here](/assets/pdf/lab_feedback.pdf) and [here](/assets/pdf/homework_feedback.pdf)_
 
 #### Supporting and Guiding Learners
 
