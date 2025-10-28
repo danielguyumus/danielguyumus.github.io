@@ -7,14 +7,14 @@ subtitle: <a href='#'>Duke University</a>. daniel.guyumus.preciado@duke.edu
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Civil and Environmental Engineering</p>
     <p>Duke University</p>
     <p>Durham, NC 27705</p>
   teaching_link:
     url: /teaching/
-    title: See Teaching Experience
+    title: teaching statement
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
